@@ -4,3 +4,5 @@ TestDome: Measure skills effectively with the online tests and save time C/C++ t
 Development Environment: Microsoft Visual Studio 2019.
 
 ParallelExecution requires Linux to build and run it (pthread.)
+
+All unit tests on https://www.testdome.com have passed successfully.
